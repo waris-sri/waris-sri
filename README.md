@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Waris Sripatoomrak</h1>
+<h1 align="center"><tt>Hi 👋, I'm Waris Sripatoomrak</tt></h1>
 <h3 align="center">A passionate undergraduate student of the Faculty of ICT, Mahidol University.</h3>
+<h5 align="center">↑ He's doing his best at things ↑</h5>
 
 * 🔭 I’m currently working on **my Java skills**.
 
-* 🌱 I’m currently learning **how to get into competitive programming**.
+* 🌱 I’m currently learning **how to get into competitive programming**, if I can.
 
 * 👨‍💻 All of my projects are available in [my portfolio](https://warisportfolio.framer.website).
 
