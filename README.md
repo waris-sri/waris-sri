@@ -80,6 +80,6 @@
 
 <p align="center">
   <a href="https://github.com/waris-sri/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=waris-sri&show_icons=true&theme=transparent" alt="waris-sri's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=waris-sri&show_icons=true&theme=github_dark" alt="waris-sri's GitHub stats">
   </a>
 </p>
