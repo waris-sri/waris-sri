@@ -61,10 +61,16 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/vercel-light.svg" alt="vercel" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="next.js" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="mavwn" width="40" height="40"/>
   </a>
 </p>
 
