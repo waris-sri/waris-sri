@@ -11,10 +11,10 @@
 <h2 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/waris-sripatoomrak-316824276" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waris sripatoomrak" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/main/assets/linkedin.svg" alt="waris sripatoomrak" height="40" width="40" />
   </a>
   <a href="https://instagram.com/waris.beam" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waris.beam" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/instagram-icon.svg" alt="waris.beam" height="40" width="40" />
   </a>
 </p>
 
