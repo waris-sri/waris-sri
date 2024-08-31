@@ -62,5 +62,6 @@
   </a>
 </p>
 
-
-[![waris-sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=waris-sri&show_icons=true&theme=transparent)](https://github.com/waris-sri/github-readme-stats)
+<p align="center">
+  [![waris-sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=waris-sri&show_icons=true&theme=transparent)](https://github.com/waris-sri/github-readme-stats)
+</p>
