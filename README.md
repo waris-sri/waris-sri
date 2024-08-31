@@ -78,4 +78,8 @@
 </p>
 
 
-[![waris-sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=waris-sri&show_icons=true&theme=transparent)](https://github.com/waris-sri/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/waris-sri/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=waris-sri&show_icons=true&theme=transparent" alt="waris-sri's GitHub stats">
+  </a>
+</p>
