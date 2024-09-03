@@ -2,10 +2,9 @@
 <h2 align="center">An undergraduate student of the Faculty of ICT, Mahidol University.</h2>
 <!-- <h5 align="center"><i>He's trying his best at things</i></h5> -->
 
+- 📖 I’m currently studying in **Year 1**.
 - 🔭 I’m currently working on **my C, Java, Python skills** and **refreshing my knowledge**.
-
 - 🌱 I’m currently learning **frontend website development**.
-
 - 👨‍💻 All of my past projects are available in [my portfolio](https://warisportfolio.framer.website).
 
 <h2 align="center">Connect with me</h3>
