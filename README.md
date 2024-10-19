@@ -17,7 +17,6 @@
   </a>
 </p>
 
-<h2 align="center">Languages and Tools</h3>
 <p align="center">I have some experience with…</p>
 
 <h3 align="center">Languages</h3>
@@ -45,7 +44,7 @@
   </a>
 </p>
 
-<h3 align="center">Platforms/Tools</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/blender.svg" alt="blender" width="40" height="40"/>
