@@ -5,7 +5,7 @@
 - 📖 I’m currently studying in **Year 1**.
 - 🔭 I’m currently working on **my C, Java, Python skills** and **refreshing my knowledge**.
 - 🌱 I’m currently learning **frontend website development**.
-- 👨‍💻 All of my past projects are available in [my portfolio](https://portfolio-waris-sripatoomraks-projects.vercel.app).
+- 👨‍💻 [Here](https://portfolio-waris-sripatoomraks-projects.vercel.app) is my personal website.
 
 <h2 align="center">Connect with me</h3>
 <p align="center">
