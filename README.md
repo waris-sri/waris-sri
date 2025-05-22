@@ -7,16 +7,6 @@
 - 🌱 I’m currently learning **frontend website development**.
 - 👨‍💻 [Here](https://portfolio-waris-sripatoomraks-projects.vercel.app) is my personal website.
 
-<h2 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/waris-sripatoomrak-316824276" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/main/assets/linkedin.svg" alt="waris sripatoomrak" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/waris.beam" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/instagram-icon.svg" alt="waris.beam" height="40" width="40" />
-  </a>
-</p>
-
 <p align="center">I have some experience with…</p>
 
 <h3 align="center">Languages</h3>
