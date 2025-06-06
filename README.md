@@ -2,9 +2,9 @@
 <h2 align="center">An undergraduate student of the Faculty of ICT, Mahidol University.</h2>
 <!-- <h5 align="center"><i>He's trying his best at things</i></h5> -->
 
-- 📖 I’m currently a **freshman**.
-- 🔭 I’m currently working on **my C, Java, Python skills** and **refreshing my knowledge**.
-- 🌱 I’m currently learning **frontend website development**.
+- 📖 I’m currently a **sophomore**.
+- 🔭 I’m currently working on **refreshing my skills**.
+- 🌱 I’m currently learning **website development**.
 - 👨‍💻 [Here](https://portfolio-waris-sripatoomraks-projects.vercel.app) is my personal website.
 
 <p align="center">I have some experience with…</p>
