@@ -1,9 +1,7 @@
 <h1 align="center"><tt>Hi 👋, I'm Waris Sripatoomrak</tt></h1>
 <h2 align="center">An undergraduate student of the Faculty of ICT, Mahidol University.</h2>
-<!-- <h5 align="center"><i>He's trying his best at things</i></h5> -->
 
 - 📖 I’m currently a **sophomore**.
-- 🔭 I’m currently working on **refreshing my skills**.
 - 🌱 I’m currently learning **website development**.
 - 👨‍💻 [Here](https://portfolio-waris-sripatoomraks-projects.vercel.app) is my personal website.
 
@@ -62,12 +60,5 @@
   </a>
   <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="mavwn" width="40" height="40"/>
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/waris-sri/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=waris-sri&show_icons=true&theme=github_dark" alt="waris-sri's GitHub stats">
   </a>
 </p>
