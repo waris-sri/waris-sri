@@ -62,3 +62,7 @@
     <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="mavwn" width="40" height="40"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waris-sri&theme=algolia&show_icons=true" alt="Waris's GitHub Stats"/>
+</p>
