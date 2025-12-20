@@ -2,7 +2,7 @@
 <h2 align="center">An undergraduate student of the Faculty of ICT, Mahidol University.</h2>
 
 - 📖 I’m currently a **sophomore**.
-- 🌱 I’m currently learning **website development**.
+- 🌱 I’m currently learning **machine learning, website development, and other geeky stuff**.
 - 👨‍💻 [Here](https://portfolio-waris-sripatoomraks-projects.vercel.app) is my personal website.
 
 <p align="center">I have some experience with…</p>
