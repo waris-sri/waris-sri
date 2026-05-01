@@ -64,7 +64,3 @@
     <img src="https://img.icons8.com/color/600/ejs.png" alt="ejs" width="40" height="40"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waris-sri&theme=algolia&show_icons=true" alt="Waris's GitHub Stats"/>
-</p>
