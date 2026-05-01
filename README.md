@@ -3,7 +3,6 @@
 
 - 📖 I’m currently a **sophomore**.
 - 🌱 I’m currently learning **machine learning, website development, and other geeky stuff**.
-- 👨‍💻 [Here](https://portfolio-waris-sripatoomraks-projects.vercel.app) is my personal website.
 
 <p align="center">I have some experience with…</p>
 
@@ -59,7 +58,10 @@
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://maven.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="mavwn" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/>
+  </a>
+  <a href="https://ejs.co" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/600/ejs.png" alt="ejs" width="40" height="40"/>
   </a>
 </p>
 
